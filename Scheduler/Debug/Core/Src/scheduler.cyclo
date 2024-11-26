@@ -1,0 +1,9 @@
+../Core/Src/scheduler.c:14:6:SCH_Init	2
+../Core/Src/scheduler.c:23:6:SCH_Update	5
+../Core/Src/scheduler.c:42:6:SCH_ADD_TASK	3
+../Core/Src/scheduler.c:61:6:SCH_Dispatch_Tasks	4
+../Core/Src/scheduler.c:79:6:SCH_Delete_Task	1
+../Core/Src/scheduler.c:94:6:SCH_Report_Status	1
+../Core/Src/scheduler.c:98:6:SCH_Go_To_Sleep	1
+../Core/Src/scheduler.c:102:6:Timer_init	1
+../Core/Src/scheduler.c:105:6:Watchdog_init	1

@@ -1,0 +1,9 @@
+../Core/Src/led7_segment.c:11:6:setEN	3
+../Core/Src/led7_segment.c:41:6:display7SEG2	11
+../Core/Src/led7_segment.c:148:6:display7SEG1	11
+../Core/Src/led7_segment.c:255:6:display7SEG_YELLOW_RED	3
+../Core/Src/led7_segment.c:275:6:display7SEG_GREEN_RED	3
+../Core/Src/led7_segment.c:295:6:display7SEG_RED_YELLOW	3
+../Core/Src/led7_segment.c:315:6:display7SEG_RED_GREEN	3
+../Core/Src/led7_segment.c:335:6:check_time	13
+../Core/Src/led7_segment.c:362:6:display7SEG_TFL	5
